@@ -142,7 +142,7 @@ int main()
             cin>>num;
             display_sp(num);
             break;
-
+                        
         case '5':
             display_al();
             break;
